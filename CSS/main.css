@@ -50,7 +50,7 @@ footer{
 header{
     width: 960px;
     border-radius: 10px;
-    // float: right;
+    /* float: right*/;
     margin: 0 auto;
     padding-top: 10px;
     padding-left:15px;
@@ -92,8 +92,8 @@ h1{
 }
 
 #logo{
-    //  padding-left: 40px;
-    //padding-top: 30px;
+    /*padding-left: 40px;
+    //padding-top: 30px*/;
     margin: 0 auto;
     height: 50px;
     display: inline-block;
@@ -147,9 +147,9 @@ aside p {
 
 nav{
     display: inline-block;
-    //  width: 775px;
+    /*  width: 775px;
     //  float: top;
-    //   padding: 5px;
+    //   padding: 5px;*/
 }
 
 ul{
@@ -175,7 +175,7 @@ li a{
     display: inline;
     color: white;
     text-align: center;
-    //   padding: 14px 16px;
+    /*  padding: 14px 16px;*/
     text-decoration: none;
 }
 
@@ -211,7 +211,7 @@ p{
     width: 180px; 
     height: 230px; 
     padding: 15px; 
-    //box-shadow: 0 0 100px rgba(0,0,0,0.4); 
+    /*box-shadow: 0 0 100px rgba(0,0,0,0.4); */
 
     left: 25px;
 

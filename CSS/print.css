@@ -8,7 +8,7 @@ body{
     background-position: center;
     font-size: 1em;
     background-color: white;
-    //  margin: 20px;
+    /*  margin: 20px;*/
 
 
 }
@@ -20,8 +20,8 @@ main{
     padding-top: 10px;
     margin: 0 auto;
     background-color: white;
-  //  border: 5px grey solid;
-  //  border-radius: 10px; 
+  /* border: 5px grey solid;
+  //  border-radius: 10px; */
 }
 
 form {
@@ -32,16 +32,16 @@ form {
 
 
 #error{
-  //  color: red;
+  /*  color: red;*/
 }
 
 .loginBtn{
-  //  border-radius:10px;
-    // border: solid #006599;
+  /*  border-radius:10px;
+    // border: solid #006599;*/
 
 }
 .loginBtn:active{
-    //   box-shadow: 0 2px 0 #006599;
+    /*   box-shadow: 0 2px 0 #006599;*/
     transform: translateY(3px);
 }
 
@@ -70,13 +70,13 @@ h1{
 }
 
 #logo{
-    //  padding-left: 40px;
-    //padding-top: 30px;
+    /*  padding-left: 40px;
+    //padding-top: 30px;*/
     margin: 0 auto;
     height: 50px;
     display: inline-block;
- //   border: 0.5px solid darkslategrey;
-  //  border-radius: 10px;
+ /*   border: 0.5px solid darkslategrey;
+  //  border-radius: 10px;*/
 }
 
 #logo:active{
@@ -86,7 +86,7 @@ h1{
 
 
 aside{
-   // background-color: buttonhighlight;
+   /* background-color: buttonhighlight;*/
     width: 200px;
     height: 280px;
     float: right;
@@ -95,7 +95,7 @@ aside{
     border-top:  3px solid grey;
     border-bottom:  3px solid grey;
     vertical-align:top;
-   // overflow: scroll;
+   /* overflow: scroll;*/
 }
 #news{
     text-align: center;
