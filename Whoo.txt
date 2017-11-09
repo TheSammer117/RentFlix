@@ -1,0 +1,7 @@
+One of the things that took a lot of my time was teaching myself JQuery from W3Schools. It took me almost 5 days. I was learning it because I wanted to have a 
+Slideshow as the backgound, but when i had it finished, it ended up looking horrible. I had no place to put a simple slideshow, so I just placed it in the about us page
+so learning it wouldn't go to waste.
+
+Also trying to upload a file using php took me about 2 days to do, because I didn't really understand the code, and i didn't want to just use the code with no understanding of
+it. I eventually found a source which explained each line of code. Then I ran into the problem of displaying the image from the
+database, which actually was pretty straight forward, even though it took me about an hour.

@@ -1,0 +1,232 @@
+
+/* 
+    Created on : 04-Apr-2016, 14:24:14
+    Author     : Sami
+*/
+body{
+    background-position: center;
+    font-size: 1em;
+    background-color: #526178;
+    background-image: url(../Images/LostBack.jpg);
+    background-attachment: fixed;
+    background-position: top;
+
+}
+/*.slideShow { position:relative; width:500px; height:332px; }
+.sildeShow img { position:absolute; left:0; top:0; }*/
+main{
+    width: 925px;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin: 0 auto;
+    height: auto;
+    background-color: floralwhite;
+    border-top: 5px grey solid;
+    border-left: 3px grey solid;
+    border-right: 3px grey solid;
+    border-bottom: 2px grey solid;
+    border-radius: 10px; 
+
+}
+footer{
+    border-radius: 10px;
+    border: 2px grey solid;
+    width: 950px;
+    margin: 0 auto;
+    background-color: floralwhite;
+}
+
+#user{
+   color: #006599;
+}
+.footer{
+    color: black;
+}
+.footer:hover{
+    color:chocolate;
+}
+
+
+header{
+    width: 960px;
+    border-radius: 10px;
+    // float: right;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-left:15px;
+    background-color: #181819;
+}
+
+#error{
+    color: red;
+}
+
+form{
+    display: inline-block;
+    vertical-align:top;
+}
+
+
+
+
+
+
+/*.slideShow {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    z-index: -1; 
+}
+.slideShow img{
+    position: absolute; 
+
+    width: 1500px;
+    height: auto;
+    //height: 100%;
+
+}*/
+h1{
+    font-size: 1em;
+    text-decoration: none;
+}
+
+#logo{
+    //  padding-left: 40px;
+    //padding-top: 30px;
+    margin: 0 auto;
+    height: 50px;
+    display: inline-block;
+    border: 0.5px solid darkslategrey;
+    border-radius: 10px;
+}
+
+#logo:active{
+    box-shadow: 0 2px 0 #006599;
+    transform: translateY(3px);
+}
+
+
+aside{
+    background-color: buttonhighlight;
+    width: 180px;
+    height: 320px;
+    float: right;
+    display: inline-block;  
+    border-left: 5px solid grey;
+    border-top: 5px solid grey;
+    border-bottom:5px solid grey;
+    border-radius:10px;
+    vertical-align:top;
+    overflow: scroll;
+
+}
+#news{
+    text-align: center;
+}
+aside p {
+    width: 230px;
+    margin: 0 auto;
+}
+.thumbnail{
+    padding-top: 10px;
+    padding-bottom:  5px;
+}
+
+.thumbnail:hover{
+    transform: translateY(5px);
+}
+/*#indexAside{
+    width: 230px;
+}
+
+#indexAside p {
+    width:230px;
+}*/
+
+
+nav{
+    display: inline-block;
+    //  width: 775px;
+    //  float: top;
+    //   padding: 5px;
+}
+
+ul{
+
+    margin-left: 5px;;
+}
+
+
+li{
+    display: inline;
+    padding: 5px;
+}
+
+li:hover{
+    text-decoration: underline;
+}
+
+a:hover{
+    color: #526178;
+}
+
+li a{
+    display: inline;
+    color: white;
+    text-align: center;
+    //   padding: 14px 16px;
+    text-decoration: none;
+}
+
+.desc{
+    display:inline-block;
+    text-align: justify;
+}
+p{
+    width: 600px;
+    display: inline-block;
+}
+
+.trailer{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+/*.button{
+    height:75px;
+    width: 100px;
+    color: red;
+  //  position: absolute;
+    background-color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+   // line-height: 60px;
+} */
+
+#slideshow { 
+    margin: 20px auto; 
+    position: relative; 
+    width: 180px; 
+    height: 230px; 
+    padding: 15px; 
+    //box-shadow: 0 0 100px rgba(0,0,0,0.4); 
+
+    left: 25px;
+
+    padding: 15px;
+
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+
+
+
